@@ -1,6 +1,5 @@
-#!/bin/sh
 cd E:\good-night
-git checkout Dev
+git checkout dev
 git add .
-git commit -am "made changes"
+git commit -m "made changes"
 git push
