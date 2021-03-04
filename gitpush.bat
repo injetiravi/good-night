@@ -1,3 +1,4 @@
+@echo off
 cd E:\good-night
 git checkout Dev
 git add .
